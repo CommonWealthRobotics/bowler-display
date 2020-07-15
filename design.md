@@ -14,6 +14,12 @@
   - Multiple data sources of compatible types (e.g., two number series) may be added to the same display (e.g., two number series on the same line chart).
 - Data source displays are organized in a grid. The user may drag-and-drop individual displays to organize them.
 
+#### Plotting Methods
+
+- Most of the plots types can be handled using [ChartFX](https://github.com/GSI-CS-CO/chart-fx).
+- ! RFC: Maybe the built-in `MediaPlayer` will be good enough to handle multiple simultaneous video streams. Not sure.
+- We can use the 3D view to display a labeled cube to visualize frame transforms.
+
 ### Settings
 
 - The user must be able to open a modal settings window to configure various kernel display settings.
