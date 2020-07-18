@@ -18,7 +18,7 @@
 
 - Most of the plots types can be handled using [ChartFX](https://github.com/GSI-CS-CO/chart-fx).
 - ! RFC: Maybe the built-in `MediaPlayer` will be good enough to handle multiple simultaneous video streams. Not sure.
-- We can use the 3D view to display a labeled cube to visualize frame transforms.
+- We can use a 3D view to display a labeled cube to visualize frame transforms.
 
 ### Settings
 
